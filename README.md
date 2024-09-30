@@ -15,4 +15,4 @@ Realiza el pull request (con un mensaje de commit significativo) y espera a que 
 
 **¿Qué asignatura te gusta más? Y ¿por qué?**
 
-* [yma](files/yma.md)
+[IVG](./files/IVG.md)
